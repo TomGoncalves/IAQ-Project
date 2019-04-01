@@ -1,4 +1,4 @@
-Date and Time,BR_MaxOccupancy,BR_OpenWindows,BR_OpenDoor,BR_OpenCurtains,BR_HeatingOn,BR_Hoovering,BR_Mopping
+Date and Time,BR_MaxOccupancy,BR_OpenWindow,BR_OpenDoor,BR_OpenCurtains,BR_HeatingOn,BR_Hoovering,BR_Mopping
 12/02/2019 07:00,2,0,,0,1,0,0
 12/02/2019 08:00,1,0,,1,0,0,0
 12/02/2019 09:00,0,0,,1,0,0,0
